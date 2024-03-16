@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on web/mobile project
-- 📫 How to reach me facebook: Luca Mamitiana RANDRIANIAINA
+- 📫 How to reach me facebook: Luca Mamitiana RANDRIANIAINA Linkedin : https://www.linkedin.com/in/luca-mamitiana-randrianiaina-5497b7286/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
