@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucaM0001
+- 👋 Hi, I’m @Luca a React, Next.js and NestJS web developer
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on web/mobile project
